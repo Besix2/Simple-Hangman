@@ -1,1 +1,1 @@
-Simple-Hangman
+A simple Hangman game written in python
